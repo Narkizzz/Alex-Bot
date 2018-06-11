@@ -1,0 +1,15 @@
+{
+  "name": "alex",
+  "version": "1.0.0",
+  "description": "This is a bot by Bad Boys 2.0 TEAM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bad Boys",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "discord.js": "^11.3.2"
+  }
+}
